@@ -13,3 +13,5 @@ list3 = list(words3)
 
 
 print('-'.join(list1), '-'.join(list2), '-'.join(list3))
+
+#the response will be: S-H-E-M-D-E-G-I S-A-D-G-U-R-I D-I-D-U-B-E
